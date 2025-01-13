@@ -11,7 +11,7 @@
             padding-top: 100px;
             font-family: 'Comic Sans MS', cursive, sans-serif;
         }
-        h1 {
+        #h1 {
             font-size: 60px;
             color: #ff69b4;
         }
